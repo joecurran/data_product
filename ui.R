@@ -21,7 +21,7 @@ shinyUI(pageWithSidebar(
                 value = 3,
                 step = 0.01),
     h4("Select the weigtht on sliderbar above."), 
-    h4("The predicted mpg is the intersection of red line and vertial line.")
+    h4("The predicted mpg is the intersection of red line and vertical line.")
   ),
   
   
